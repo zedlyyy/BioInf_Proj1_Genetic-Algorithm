@@ -1,1 +1,1 @@
-# BioInf_Proj1---Genetic-Algorithm
+# BioInf_Proj1_Genetic-Algorithm
